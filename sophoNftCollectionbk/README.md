@@ -21,8 +21,15 @@ polyMumbai-2002-AUG-17-sophowhitelist-backend-contract-
 
 0x65A388e7D7432B2333f6d734DB961CFFd17d8aB2
 
-polyMumbai-2002-AUG-17-sophonftCollectionbk-backend-contract-
+polyMumbai-2002-AUG-17_15.00PM-sophonftCollectionbk-backend-contract-
 Crypto Devs Contract Address: 0x98e08f988b128dc11D504B5979db6064C7e033B2
+
+polyMumbai-2002-AUG-17_18.42PM-sophonftCollectionbk-backend-contract-
+Crypto Devs Contract Address: 0xf0d5097130C34bD65d53B59E077a6B94fd3Cf26D
+
+
+
+
 /////////////////
 Learnings
 =========
